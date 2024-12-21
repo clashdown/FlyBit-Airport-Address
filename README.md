@@ -2,7 +2,7 @@
 
 ---
 
-## 可用优惠券（八折）
+## 可用优惠券（九折）
 ### flybit
 
 ---
@@ -35,7 +35,6 @@
 * 日本
 * 韩国
 * 新加坡
-* 印尼
 * 印度
 * 德国
 * 英国
@@ -48,10 +47,11 @@
 
 ## 特点：
 
+* 全IEPL+IPLC线路
 * 提供1天2G免费试用，满意才付款。高性价比
 * 高可用+自动负载均衡设计，基本上不会挂
 * 解锁流媒体：Netflix、BBC iPlayer、Hulu、Amazon Prime Video、Disney+、HBO以及YouTube Premium、Spotify
 * 支持的设备：Windows电脑、Mac电脑、iOS、安卓、Linux、路由器、安卓电视
 * 查资料、学英语、上网课、留学必备
-* ChatGPT机场，很多节点可以上ChatGPT
+* ChatGPT机场，全部节点可以上ChatGPT
 * 新加坡华人创建
