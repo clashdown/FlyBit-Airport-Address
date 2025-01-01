@@ -1,4 +1,4 @@
-# FlyBit机场2024年最新可用域名（机场导航|机场推荐|梯子推荐|VPN|加速器|Netflix解锁|科学上网|翻墙代理|VPN导航|科学上网）
+# FlyBit机场2025年最新可用域名（机场导航|机场推荐|梯子推荐|VPN|加速器|Netflix解锁|科学上网|翻墙代理|VPN导航|科学上网）
 
 ---
 
@@ -41,6 +41,7 @@
 * 巴西
 * 澳大利亚
 * 阿联酋
+* 俄罗斯
 * 持续增加中
 
 ---
@@ -48,6 +49,7 @@
 ## 特点：
 
 * 全IEPL+IPLC线路
+* 不限制设备数
 * 提供1天2G免费试用，满意才付款。高性价比
 * 高可用+自动负载均衡设计，基本上不会挂
 * 解锁流媒体：Netflix、BBC iPlayer、Hulu、Amazon Prime Video、Disney+、HBO以及YouTube Premium、Spotify
