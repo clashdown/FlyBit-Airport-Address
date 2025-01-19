@@ -16,6 +16,11 @@
 
 ---
 
+## 客服QQ
+2094876503
+
+---
+
 ## 套餐信息
 ![套餐图](images/套餐信息.jpg)
 
@@ -56,12 +61,12 @@
 
 ## 特点：
 
-* 全IEPL+IPLC线路
+* 两条IEPL线路+一条中转线路，全部倍率都是1
+* 全网最便宜IEPL套餐
 * 不限制设备数
-* 提供1天2G免费试用，满意才付款。高性价比
-* 高可用+自动负载均衡设计，基本上不会挂
+* 提供1天2G免费试用，满意才付款。极致性价比
 * 解锁流媒体：Netflix、BBC iPlayer、Hulu、Amazon Prime Video、Disney+、HBO以及YouTube Premium、Spotify
+* 解锁ChatGPT、Gemini 等AI
 * 支持的设备：Windows电脑、Mac电脑、iOS、安卓、Linux、路由器、安卓电视
 * 查资料、学英语、上网课、留学必备
-* ChatGPT机场，全部节点可以上ChatGPT
 * 新加坡华人创建
