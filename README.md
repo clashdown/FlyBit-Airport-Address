@@ -11,8 +11,8 @@
 ### 地址导航: https://goflybit.pages.dev
 ### 永久地址: https://flybit.vip (被墙，需挂梯子)
 ### Telegram公告频道: https://t.me/flybitvip_channel
-### 可用地址1：https://flybit.bond
-### 可用地址2：https://flybit.cyou
+### 可用地址1：https://flybit.cc
+### 可用地址2：https://flybit.space
 
 ---
 
@@ -76,7 +76,7 @@
 
 ## 特点：
 
-* IEPL+中转，全部倍率都是1，油管可以跑到30w+
+* IEPL+中转，全部倍率都是1，油管可以跑到50w+
 * 全网最便宜IEPL套餐
 * 不限制设备数
 * 提供1天2G免费试用，满意才付款。极致性价比
