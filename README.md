@@ -11,8 +11,8 @@
 ### 地址导航: https://goflybit.pages.dev
 ### 永久地址: https://flybit.vip (被墙，需挂梯子)
 ### Telegram公告频道: https://t.me/flybitvip_channel
-### 可用地址1：https://flybit.cc
-### 可用地址2：https://flybit.space
+### 可用地址1：https://flybit.best
+### 可用地址2：https://flybit.my
 
 ---
 
