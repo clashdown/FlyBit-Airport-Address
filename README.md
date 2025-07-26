@@ -8,15 +8,15 @@
 ---
 
 ## 网址
-### 地址导航: https://goflybit.pages.dev
-### 永久地址: https://flybit.vip (被墙，需挂梯子)
+### 地址导航: [https://goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=o7YHNoqs)
+### 永久地址: [https://flybit.vip (被墙，需挂梯子)](https://flybit.vip/#/register?code=o7YHNoqs)
 ### Telegram公告频道: [https://t.me/flybitvpn](https://t.me/flybitvpn)
 ### Telegram讨论群组: [https://t.me/flybitvip](https://t.me/flybitvip)
-### 可用地址1：https://flybit1.top
-### 可用地址2：https://flybit2.top
-### 可用地址3：https://flybit3.top
-### 可用地址4：https://flybit4.top
-### 可用地址5：https://flybit5.top
+### 可用地址1：[https://flybit1.top](https://flybit1.top/#/register?code=o7YHNoqs)
+### 可用地址2：[https://flybit2.top](https://flybit2.top/#/register?code=o7YHNoqs)
+### 可用地址3：[https://flybit3.top](https://flybit3.top/#/register?code=o7YHNoqs)
+### 可用地址4：[https://flybit4.top](https://flybit4.top/#/register?code=o7YHNoqs)
+### 可用地址5：[https://flybit5.top](https://flybit5.top/#/register?code=o7YHNoqs)
 
 
 ---
